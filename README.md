@@ -6,9 +6,10 @@ Firstly install firebase-tools with elevated rights
 sudo npm install -g firebase-tools
 ```
 
-Then change project ID in .firebaserc file. 
-Then get your firebase AdminSDK json file. Put it into functions folder and rename into firebase-adminsdk.json
-In functions/src/flapp.js file put your credentials into databaseURL and storageBucket fields. Change dbType of your needs.
+Then change project ID in `.firebaserc` file. 
+Then get your firebase AdminSDK json file. 
+Put it into `functions` folder and rename into `firebase-adminsdk.json`
+In `functions/src/flapp.js` file put your credentials into `databaseURL` and `storageBucket` fields. Change `dbType` with your needs.
 
 To deploy, do:
 
