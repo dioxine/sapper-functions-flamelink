@@ -17,4 +17,3 @@ To deploy, go in `functions` and do:
 npm install
 npm run deploy
 ```
-# sapper-functions-flamelink
