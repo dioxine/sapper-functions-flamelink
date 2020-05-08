@@ -1,4 +1,4 @@
-# This is a Sapper project, prepared for Firebase Cloud Functions deploying with SSR support and with Flamelink integration for dynamic content.
+# This is a Sapper project, prepared for Firebase Cloud Functions deploying with SSR support and with Flamelink integration for server-side dynamic content.
 
 Firstly install firebase-tools with elevated rights
 
