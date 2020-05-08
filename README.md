@@ -11,7 +11,7 @@ Then get your firebase AdminSDK json file.
 Put it into `functions` folder and rename into `firebase-adminsdk.json`
 In `functions/src/flapp.js` file put your credentials into `databaseURL` and `storageBucket` fields. Change `dbType` with your needs.
 
-To deploy, do:
+To deploy, go in `functions` and do:
 
 ```bash
 npm install
